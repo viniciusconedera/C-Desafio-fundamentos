@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.exe
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.deps.json
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.dll
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.pdb
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.dll
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\refint\DesafioFundamentos.dll
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\vinic\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\ref\DesafioFundamentos.dll
